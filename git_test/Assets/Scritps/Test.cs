@@ -8,5 +8,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         Debug.Log("깃허브 테스트용도 출력");
+
+        Debug.Log("git branch test!!");
     }
 }
